@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Raqib AI
+
+# 🛡️ Raqib AI
 
 **Raqib AI** is a smart tool that helps users detect and manage hate speech in their Reddit content.
 
