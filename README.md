@@ -1,6 +1,6 @@
-# 🛡️ Raqib AI
+# <img src="Frontend/public/logiya.png" alt="Raqib AI Logo" width="120" style="float: right;" /> Raqib AI
 
-<img src="Frontend/public/logiya.png" alt="Raqib AI Logo" width="120" style="float: right;" />
+
 
 **Raqib AI** is a smart tool that helps users detect and manage hate speech in their Reddit content.
 
