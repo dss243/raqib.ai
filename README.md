@@ -1,6 +1,6 @@
 
 # 🛡️ Raqib AI
-
+![Profile Picture](Frontend/public/logiya.png)
 **Raqib AI** is a smart tool that helps users detect and manage hate speech in their Reddit content.
 
 ## Features
