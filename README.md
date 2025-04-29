@@ -48,7 +48,7 @@ With online spaces becoming increasingly toxic, Raqib AI empowers users to take 
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: FastAPI, WebSockets  
 - **NLP Model**: AraBERT (multi-task: hate speech detection + topic classification)  
-- **OAuth**: Reddit API authentication  
+- **OAuth**: Reddit API authentication  Pram
 
 ---
 
