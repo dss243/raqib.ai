@@ -21,7 +21,7 @@
 Securely connect your Reddit account to allow Raqib AI to fetch your posts and comments.
 
 ### 🧠 Hate Speech Detection
-Uses a powerful NLP model (based on AraBERT) to detect hate speech in Arabic and other languages.
+Uses a powerful NLP model (based on AraBERT and DziriBERT) to detect hate speech in Arabic and Algerian dailect.
 
 ### 📊 Interactive Dashboard
 Visualize statistics and insights about your Reddit activity:
