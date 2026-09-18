@@ -1,11 +1,22 @@
+# Raqib AI
 
 <p align="center">
-  <img src="Frontend/public/logiya.png" alt="Raqib AI Logo" width="100" style="vertical-align: middle;" />
+   <img src="Frontend/public/logiya.png" alt="PhytoSpectra Logo" width="380"/>
 </p>
 
-<h1 align="center">Raqib AI</h1>
+<h3 align="center">
+  <p align="center"><strong>Raqib AI</strong> is a smart tool that helps users detect and manage hate speech in their Reddit content.</p>
+</h3>
 
-<p align="center"><strong>Raqib AI</strong> is a smart tool that helps users detect and manage hate speech in their Reddit content.</p>
+
+<p align="center">
+  🌐 <a href="https://raqibai.vercel.app/" target="_blank">
+    <strong>Visit the Live Platform →</strong>
+  </a>
+</p>
+
+
+
 
 ---
 
